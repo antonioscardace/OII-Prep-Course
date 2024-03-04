@@ -12,3 +12,4 @@ Course held by _[Prof. Simone Faro](mailto:simone.faro@unict.it), [Francesco Pio
 | # | Date | Description | Exercises |
 |---|------|-------------|-----------|
 | 1 | 2024-02-26 | Files & Arrays. | [/lesson-01/](/lesson-01/) |
+| 2 | 2024-03-04 | C++ STL Containers. | [/lesson-02/](/lesson-02/) |
