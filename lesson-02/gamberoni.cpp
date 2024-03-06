@@ -6,14 +6,13 @@ int main() {
     ofstream out("output.txt");
 
     for (int task = 0; task < 100; task++) {
-
         int N;
         in >> N;
 
         double result = 0;
         double minimo = 100;
+        
         for (int i = 0; i < N; i++) {
-            
             double tmp;
             in >> tmp;
             
