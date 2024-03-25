@@ -15,3 +15,4 @@ Course held by _[Prof. Simone Faro](mailto:simone.faro@unict.it), [Francesco Pio
 | 2 | 2024-03-04 | C++ STL Containers. | [/lesson-02/](/lesson-02/) |
 | 3 | 2024-03-11 | Recursion. | [/lesson-03/](/lesson-03/) |
 | 4 | 2024-03-19 | DP Top-Down and Memoization | [/lesson-04/](/lesson-04/)
+| 5 | 2024-03-25 | DP Bottom-Up and Tabulation | [/lesson-05/](/lesson-05/)
